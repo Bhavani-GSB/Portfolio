@@ -152,8 +152,6 @@ Trainee Front-end Developer</button>
 </p>
     <p>➣ Worked in Hotel Booking applications</p>
     <p>➣ Involved in developing responsive web pages </p>
-   
-
         </div>
     </div>
   </div>
